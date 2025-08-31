@@ -6,7 +6,8 @@
     "fs": "https://deno.land/std@0.223.0/fs/mod.ts",
     "chalk": "npm:chalk@^4",
     "react": "npm:react",
-    "assert": "jsr:@std/assert"
+    "assert": "jsr:@std/assert",
+    "@fresh/init@": "jsr:@fresh/init@2.0.0-alpha.38"
   },
   "workspace": ["./add", "./subtract", "./node"],
   // https://docs.deno.com/examples/react_tutorial/#configure-the-project
